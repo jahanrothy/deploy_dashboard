@@ -1,6 +1,9 @@
 //   menutoggle
 let toggle = document.querySelector('.toggle');
+
+console.log({toggle});
 let navigation = document.querySelector('.navigation');
+
 let main = document.querySelector('.main');
 
 toggle.onclick = function(){
